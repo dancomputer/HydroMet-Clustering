@@ -5,7 +5,7 @@
 
 **MakeBioClimVars.py** calculates GDDs, cumulative precipitation, and (unused) hydrothermal coefficient. **MakeClusteredResultNC4.py** makes the clustered data netcdf4 file.
 
-**DaysBefore.py** y = DaysBefore(x) is a 1-D mapping from x = year relative to 1861 to y = days relative to 1861. 
+**DaysBefore.py** y = DaysBefore(x) is a 1-D map from x = year relative to 1861 to y = days relative to 1861. 
 i.e. x = 0 means 1861, and so y=0; x =1 means 1862, and so y = 365, and so on, 
 accounting for leap years!
 
