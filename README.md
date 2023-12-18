@@ -14,6 +14,7 @@ Clusters are marked as xxxx where the first digit is the region and the last thr
 
 The results, 'Clustered_Data_v1a.nc4', along with the neccesary input files, are uploaded to the [_CropWeather_Risk_ GDrive](https://drive.google.com/drive/u/1/folders/1mB1umEvFzYN4-NWyQZRF-QI8yr9iBoNv). To index days based on years, use DaysBefore() from MakeBioClimVars.py. Averaged planting/maturity day can take non-integer values so might need to be rounded.
 
+The conda environemnt with compatible package versions is named "HydroMet-Clustering_PythonEnvironment.yml". 
 
 
 
